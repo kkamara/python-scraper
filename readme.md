@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kkamara/useful/main/php-scraper.gif" alt="php-scraper.gif" />
+<img src="https://raw.githubusercontent.com/kkamara/useful/main/nodejs-scraper.gif" alt="nodejs-scraper.gif" />
 
 # python-scraper
 
